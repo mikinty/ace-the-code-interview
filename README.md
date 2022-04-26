@@ -74,6 +74,7 @@ NOTE: A pitfall is that you code something really quickly, but it doesn't work, 
 
 Therefore, it is a good idea to
 1. Discuss your solution conceptually first, and even if it makes sense at that level, just try some edge cases so you know it can handle them. Note that although this means you might have to keep a lot of information in your head, this can be a plus if it is well-organized.
+  - A good way to do this systematically is to do a "mini design doc" with your interviewer, clarify edge cases and operation, before you try to start coding
 2. While you code your solution, mention any difficult spots that you run into, and why you are doing certain things.
 3. Also prefer **correctness** and **readability** over efficiency at first. If the interviewer asks you to optimize, they will, and this is generally easier to do with a working solution than a broken one.
 
