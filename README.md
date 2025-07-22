@@ -49,6 +49,7 @@ The more normal approach to do these problems is
 2. Do a healthy amount of Leetcode or problem practice
   - When you do these problems, you should strive to actually spend time thinking about the problems and solving them, not just looking up solutions. It may be surprising, but spending time exercising your brain _does_ help with your problem solving skills.
   - You should try to write test cases yourself, so you can practice verifying that your solution is right. This will also force you to do some debugging on your solution, which is a vital part of your coding skills.
+3. I highly recommend getting some practice as a "competitive programmer," even if that is something you have never done. The goal is to try to do hard problems fast and accurately. And to really stretch your abilities. I recommend the book [Guide to Competitive Programming by Antti Laaksonen](https://a.co/d/3WqhVnx)
 
 **During the Interview:**
 
